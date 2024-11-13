@@ -9,11 +9,8 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
-
 Hardware – PCs, Cyclone II , USB flasher
-
 **Software – Quartus prime**
-
 **Theory**
 ![WhatsApp Image 2024-10-14 at 14 06 02_82a55775](https://github.com/user-attachments/assets/4faa63f1-a124-4f5c-9247-a2796541ebdd)
 
