@@ -21,8 +21,6 @@ Hardware – PCs, Cyclone II , USB
 ![WhatsApp Image 2024-10-14 at 14 06 02_82a55775](https://github.com/user-attachments/assets/4faa63f1-a124-4f5c-9247-a2796541ebdd)
 
 
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -57,7 +55,6 @@ Developed by: Janani k
 
 RegisterNumber: 24900523
 
-**Output:**
 
 **RTL realization**![EXP_3_1](https://github.com/user-attachments/assets/6df1c729-da63-4689-9345-896b561aadc5)
 
